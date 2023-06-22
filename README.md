@@ -1,6 +1,6 @@
 # COMMANDS related to ovirt and proxmox.
 
-##Migrating the OVIRT vms.
+## Migrating the OVIRT vms.
 
 Track down the VM disk on the ovirt cluster.
 
